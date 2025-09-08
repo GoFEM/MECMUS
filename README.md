@@ -1,5 +1,7 @@
 # MECMUS
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17078925.svg)](https://doi.org/10.5281/zenodo.17078925)
+
 Multi-scale Electrical Conductivity Model of continental US (MECMUS). The Jupyter notebook can be used to read in and plot models.
 
 There are now two versions of the MECMUS model:
