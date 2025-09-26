@@ -16,7 +16,7 @@ In both cases, MT data was retrieved from the IRIS data portal: https://ds.iris.
 <img src="MECMUS-2025_depth_158.75km.png" width="80%" height="100%">
 
 # References
-- Munch, F. and Grayver, A., (2025). Multi-scale electrical conductivity structure beneath the contiguous US, in preparation
+- Munch, F. and Grayver, A., (2025). Multi-scale Electrical Conductivity Model of the Conterminous United States US, submitted
 - Munch, F. and Grayver, A., (2023). Multi-scale imaging of 3-D electrical conductivity structure under the contiguous US constrains lateral variations in the upper mantle water content, Earth and Planetary Science Letters. https://doi.org/10.1016/j.epsl.2022.117939
 
 # License
