@@ -10,10 +10,10 @@ There are now two versions of the MECMUS model:
 
 In both cases, MT data was retrieved from the IRIS data portal: https://ds.iris.edu/spud/emtf
 
-<img src="MECMUS-2025_depth_5.45km.png" width="80%" height="100%">
-<img src="MECMUS-2025_depth_14.05km.png" width="80%" height="100%">
-<img src="MECMUS-2025_depth_42.5km.png" width="80%" height="100%">
-<img src="MECMUS-2025_depth_158.75km.png" width="80%" height="100%">
+<img src="MECMUS-2025_depth_5.45km.png" width="80%" height="80%">
+<img src="MECMUS-2025_depth_14.05km.png" width="80%" height="80%">
+<img src="MECMUS-2025_depth_42.5km.png" width="80%" height="80%">
+<img src="MECMUS-2025_depth_158.75km.png" width="80%" height="80%">
 
 # References
 - Munch, F. and Grayver, A., (2025). Multi-scale Electrical Conductivity Model of the Conterminous United States US, submitted
